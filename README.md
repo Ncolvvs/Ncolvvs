@@ -26,4 +26,12 @@ I am a passionate Software Developer who enjoys spending countless hours coding.
 <br />
 <hr />
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=Ncolvvs&show_icons=true&count_private=true)
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Ncolvvs&show_icons=true&count_private=true&hide_border=true&title_color=FF9900&icon_color=FF9900&text_color=c9d1d9&bg_color=0d1117" alt="github stats"/> 
+ 
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Ncolvvs&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ncolvvs&layout=compact&title_color=FF9900&bg_color=0d1117&hide_border=true&text_color=ffffff">
+</div>
