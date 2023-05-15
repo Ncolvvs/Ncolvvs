@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi, I'm Nicolas 👋
+<hr />
+I am a passionate Software Developer who enjoys spending countless hours coding.
 
-<!--
-**Ncolvvs/Ncolvvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>💡 I have an entrepreneurial spirit and love learning new technologies.</li>
+  <li>👨🏻‍💻 I am currently doing countless personal projects and courses, in addition to my college career.</li>
+  <li>🏍️ Fun fact: I love motorcycles.</li>
+ </ul>
 
-Here are some ideas to get you started:
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<p>
+  <img align=left width=50 src="https://i.postimg.cc/YSRy6YgV/html-5.png" alt="html-5"/>
+  <img align=left width=50 src="https://i.postimg.cc/q7Nj3SJt/css-3.png" alt="css-3"/>
+  <img align=left width=50 src="https://i.postimg.cc/JzwgM1MT/js.png" alt="js"/>
+  <img align=left width=50 src="https://i.postimg.cc/8zhYCqCT/java.png" alt="java"/>
+  <img align=left width=50 src="https://i.postimg.cc/02K3T6RM/1000-F-583616402-ee-FIru-MMz-I8p-FF4pk-Am-Djywd-MWu9-TQs-T-transformed-removebg-preview.png" alt="react"/>
+  <img align=left width=50 src="https://i.postimg.cc/bwCmdphc/mysql.png" alt="mysql"/>
+  <img align=left width=50 src="https://i.postimg.cc/JhM2HPyZ/github.png" alt="github"/>
+  <img align=left width=50 src="https://i.postimg.cc/13fpCFL2/figma.png' border='0' alt='figma'" alt="figma"/>
+</p>
+
+<br />
+<br />
+<hr />
+
+![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=Ncolvvs&show_icons=true&count_private=true)
