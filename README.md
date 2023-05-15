@@ -27,11 +27,11 @@ I am a passionate Software Developer who enjoys spending countless hours coding.
 <hr />
 
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Ncolvvs&show_icons=true&count_private=true&hide_border=true&title_color=FF9900&icon_color=FF9900&text_color=c9d1d9&bg_color=0d1117" alt="github stats"/> 
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Ncolvvs&show_icons=true&count_private=true&hide_border=true&title_color=e59647&icon_color=e59647&text_color=c9d1d9&bg_color=0d1117" alt="github stats"/> 
  
-  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Ncolvvs&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=c9d1d9"/>
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Ncolvvs&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=e59647&fire=e59647&currStreakLabel=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ncolvvs&layout=compact&title_color=FF9900&bg_color=0d1117&hide_border=true&text_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ncolvvs&layout=compact&title_color=e59647&bg_color=0d1117&hide_border=true&text_color=ffffff">
 </div>
