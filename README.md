@@ -16,6 +16,7 @@ I am a passionate Software Developer who enjoys spending countless hours coding.
   <img align=left width=50 src="https://i.postimg.cc/q7Nj3SJt/css-3.png" alt="css-3"/>
   <img align=left width=50 src="https://i.postimg.cc/JzwgM1MT/js.png" alt="js"/>
   <img align=left width=50 src="https://i.postimg.cc/8zhYCqCT/java.png" alt="java"/>
+  <img align=left width=50 src="https://postimg.cc/c6X5HT5t" alt="swift"/>
   <img align=left width=50 src="https://i.postimg.cc/02K3T6RM/1000-F-583616402-ee-FIru-MMz-I8p-FF4pk-Am-Djywd-MWu9-TQs-T-transformed-removebg-preview.png" alt="react"/>
   <img align=left width=50 src="https://i.postimg.cc/bwCmdphc/mysql.png" alt="mysql"/>
   <img align=left width=50 src="https://i.postimg.cc/JhM2HPyZ/github.png" alt="github"/>
