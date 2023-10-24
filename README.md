@@ -19,6 +19,7 @@ I am a passionate Software Developer who enjoys spending countless hours coding.
   <img align=left width=50 src="https://i.postimg.cc/m2sxm5Yj/Swift-logo-768x768.png" alt="swift"/>
   <img align=left width=50 src="https://i.postimg.cc/02K3T6RM/1000-F-583616402-ee-FIru-MMz-I8p-FF4pk-Am-Djywd-MWu9-TQs-T-transformed-removebg-preview.png" alt="react"/>
   <img align=left width=50 src="https://i.postimg.cc/bwCmdphc/mysql.png" alt="mysql"/>
+  <img align=left width=50 src="https://i.postimg.cc/RVXPwsXN/mongodb-logo-D13-D67-C930-seeklogo-com.png" alt="mongo" />
   <img align=left width=50 src="https://i.postimg.cc/JhM2HPyZ/github.png" alt="github"/>
   <img align=left width=50 src="https://i.postimg.cc/13fpCFL2/figma.png' border='0' alt='figma'" alt="figma"/>
 </p>
