@@ -1,4 +1,4 @@
-### Hi, I'm Nicolas 👋
+# Hi, I'm Nicolas 👋
 <hr />
 I am a passionate Software Developer who enjoys spending countless hours coding.
 
