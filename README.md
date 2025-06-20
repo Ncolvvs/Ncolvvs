@@ -28,6 +28,7 @@ I'm a **Software Developer** with a strong focus on backend development, system 
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/Angular-FF31D5?style=for-the-badge&logo=angular&logoColor=white)]()
 
 **Databases & Cloud:**
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
